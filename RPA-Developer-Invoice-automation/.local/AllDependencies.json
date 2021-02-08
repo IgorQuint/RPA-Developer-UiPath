@@ -3506,9 +3506,9 @@
     "restore": {
       "projectUniqueName": "Project 1 udacity",
       "projectName": "Project 1 udacity",
-      "projectPath": "C:\\Users\\igorq\\Documents\\UiPath\\Project 1 udacity\\.local",
+      "projectPath": "C:\\Users\\igorq\\Documents\\GitHub\\RPA-Developer-UiPath\\RPA-Developer-Invoice-automation\\.local",
       "packagesPath": "C:\\Users\\igorq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igorq\\Documents\\UiPath\\Project 1 udacity\\.local"
+      "outputPath": "C:\\Users\\igorq\\Documents\\GitHub\\RPA-Developer-UiPath\\RPA-Developer-Invoice-automation\\.local"
     },
     "frameworks": {
       "net461": {
